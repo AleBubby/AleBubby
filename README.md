@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## 📈 Statistiche GitHub
 
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=radical)
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=AleBubby&show_icons=true&theme=radical)
 
 ---
 
