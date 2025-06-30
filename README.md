@@ -14,37 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Ciao, sono Alessio!
-🎓 Studente di informatica presso l'universitá di Torino.  
-💻 Appassionato di algoritmi, programmazione e sviluppo software.  
-🌱 Attualmente sto imparando: [linguaggi, tecnologie, ecc.]  
-🔭 Sto lavorando su: [progetti, tesi, esercitazioni, ecc.]  
-📫 Come contattarmi: alessio.bubbico@edu.unito.it
+# 👋 Hi, I'm Alessio!
+🎓 Computer Science student at the University of Turin.  
+💻 Passionate about algorithms, programming, and software development.  
+🌱 Currently learning: [languages, technologies, etc.]  
+🔭 Currently working on: [projects, thesis, assignments, etc.]  
+📫 How to contact me: alessio.bubbico@edu.unito.it  
                      https://www.linkedin.com/in/alessio-bubbico-6272a156/
                      
 
 ---
 
-## 🚀 Linguaggi e tecnologie
+## 🚀 Languages and Technologies
 
 - C / C++
 - Python
-- java
-- html
-- css
-- javascript
+- Java
+- HTML
+- CSS
+- JavaScript
 
-## 📈 Statistiche GitHub
+## 📈 GitHub Stats
 
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=AleBubby&show_icons=true&theme=radical)
-
----
-
-## 📂 Alcuni miei progetti
-
-- [Nome progetto 1](link) — breve descrizione
-- [Nome progetto 2](link) — breve descrizione
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AleBubby&show_icons=true&theme=radical)
 
 ---
 
-Grazie per aver visitato il mio profilo! ⭐
+## 📂 Some of my projects
+
+- [Project Name 1](link) — short description
+- [Project Name 2](link) — short description
+
+---
+
+Thank you for visiting my profile! ⭐
